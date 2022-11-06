@@ -41,7 +41,7 @@
     "event-stream": "^3.3.4",
     "font-awesome": "^4.7.0",
     "glob": "^7.1.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-ejs": "^3.0.1",
     "gulp-less": "^3.3.2",
